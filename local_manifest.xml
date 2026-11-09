@@ -6,9 +6,9 @@
     <!-- Device core repos -->
     <project name="android_device_xiaomi_chagall" path="device/xiaomi/chagall" remote="chagall-blobs" revision="lineage-24.0" />
     <project name="android_device_xiaomi_chagall-kernel" path="device/xiaomi/chagall-kernel" remote="chagall-blobs" revision="lineage-24.0" />
-    <project name="android_device_xiaomi_chagall-miuicamera" path="device/xiaomi/chagall-miuicamera" remote="chagall-blobs" revision="leica/lineage-24.0" />
+    <project name="android_device_xiaomi_chagall-miuicamera" path="device/xiaomi/chagall-miuicamera" remote="chagall-blobs" revision="lineage-24.0" />
     <project name="android_vendor_xiaomi_chagall" path="vendor/xiaomi/chagall" remote="chagall-blobs" revision="lineage-24.0" />
-    <project name="android_vendor_xiaomi_chagall-miuicamera" path="vendor/xiaomi/chagall-miuicamera" remote="chagall-blobs" revision="leica/lineage-24.0" />
+    <project name="android_vendor_xiaomi_chagall-miuicamera" path="vendor/xiaomi/chagall-miuicamera" remote="chagall-blobs" revision="lineage-24.0" />
 
     <!-- Misc Dependencies -->
     <project name="android_hardware_xiaomi" path="hardware/xiaomi" remote="chagall-blobs" revision="lineage-23.2" />
